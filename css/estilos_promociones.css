@@ -1,0 +1,61 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #faf7f2;
+}
+
+    header {
+        background-color: #d35400;
+        padding: 20px;
+        text-align: center;
+        color: #fff;
+    }
+
+    h1 {
+        margin: 0;
+    }
+
+    .contenedor {
+        width: 90%;
+        max-width: 900px;
+        margin: 30px auto;
+    }
+
+    .cupon {
+        background-color: #ffffff;
+        border: 2px dashed #c0392b;
+        padding: 20px;
+        margin-bottom: 25px;
+        border-radius: 10px;
+    }
+
+    .cupon h2 {
+        margin-top: 0;
+        color: #c0392b;
+    }
+
+    .cupon p {
+        margin: 5px 0;
+    }
+
+    .btn-regresar {
+        display: inline-block;
+        margin: 25px auto;
+        padding: 12px 20px;
+        background-color: #c0392b;
+        color: white;
+        text-decoration: none;
+        font-size: 16px;
+        border-radius: 6px;
+        text-align: center;
+    }
+
+    footer {
+        text-align: center;
+        padding: 15px;
+        background-color: #d35400;
+        color: #fff;
+        margin-top: 40px;
+    }
+  
